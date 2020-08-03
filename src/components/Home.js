@@ -70,7 +70,7 @@ function Home() {
 
 					<h4>TOP EXPERTISE</h4>
 
-					<p>Fullstack developer with primary focus on Node + React: <a href={require('../images/CV.pdf')}>Download Resume</a></p>
+					<p>Fullstack developer with primary focus on Node + React: <a href={require('../images/CV.pdf')} target="_blank">Download Resume</a></p>
 
 					<div id="skills">
 						<ul>
