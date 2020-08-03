@@ -6,11 +6,7 @@ import Project from './components/Project';
 
 function App() {
   return (
-    <Router>
-		<Switch>
-			<Route exact path="/" component={Home}/>
-		</Switch>
-	</Router> 
+    <Home/>
   );
 }
 

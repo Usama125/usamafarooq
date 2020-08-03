@@ -26,7 +26,7 @@ function Home() {
 
 					<ul id="navigation">
 						<li><a href="index.html#contact">Contact</a></li>
-						<li><a href="index.html#contact">See Resume</a></li>
+						<li><a href="https://github.com/Usama125" target="_blank">GitHub</a></li>
 					</ul>
 				</div>
 
@@ -70,7 +70,7 @@ function Home() {
 
 					<h4>TOP EXPERTISE</h4>
 
-					<p>Fullstack developer with primary focus on Node + React: <a target="_blank" href="resume.pdf">Download Resume</a></p>
+					<p>Fullstack developer with primary focus on Node + React: <a href={require('../images/CV.pdf')}>Download Resume</a></p>
 
 					<div id="skills">
 						<ul>
